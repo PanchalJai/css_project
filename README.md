@@ -1,2 +1,2 @@
 # css project 
-<!-- a web page of photo gellery with search bar of google. -->
+A web page of photo gellery with search bar of google.
